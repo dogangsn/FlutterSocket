@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "FlutterSocket",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "FlutterSocket (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "FlutterSocket (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "Flutter (TECNO CH9n)",
+            "program": "lib/main.dart",
+            "deviceId": "07498251B8001105",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
